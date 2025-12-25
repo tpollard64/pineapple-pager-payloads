@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Title: MITM Test Payload
+# Author: tpollard64
 # Description: Sets up a rogue AP for Man-in-the-Middle testing in a homelab environment.
 # This payload enables PineAP to impersonate WiFi networks, captures associations and probes,
 # and logs traffic for analysis. Intended for ethical security research only.
